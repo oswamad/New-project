@@ -15,7 +15,7 @@ const config = {
 		// Change this to your GitHub repo name if deploying as a project page
 		// e.g. paths: { base: '/my-repo' }
 		paths: {
-			base: '/New-project'
+			base: '/Bio-Chloe'
 		}
 	}
 };
