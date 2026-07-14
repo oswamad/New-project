@@ -44,7 +44,7 @@
 		<div class="portrait-wrap" aria-hidden="true">
 			<div class="portrait-frame">
 				<div class="portrait-frame-inner">
-					<img src="/portrait.jpg" alt="Chloe" class="portrait-img" />
+					<img src="./portrait.jpg" alt="Chloe" class="portrait-img" />
 				</div>
 			</div>
 			<span class="corner-heart tl" aria-hidden="true">♥</span>
