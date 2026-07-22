@@ -66,9 +66,9 @@
 					class:visible
 					style="transition-delay: {0.05 * i}s"
 				>
-					<!-- Wikipedia thumbnail if loaded, otherwise local SVG placeholder -->
+					<!-- Wikipedia thumbnail if loaded, otherwise local JPG or SVG placeholder -->
 					<img
-						src={artistImages[artist.slug] ?? `/music/${artist.slug}.svg`}
+						src={artistImages[artist.slug] ?? `/music/${artist.slug}.jpg`}
 						alt={artist.name}
 						class="artist-img"
 						loading="lazy"

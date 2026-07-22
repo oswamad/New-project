@@ -56,7 +56,6 @@ declare module '$env/static/private' {
 	export const npm_config_local_prefix: string;
 	export const CommonProgramW6432: string;
 	export const COLORTERM: string;
-	export const EFC_13036_1592913036: string;
 	export const CommonProgramFiles: string;
 	export const GIT_ASKPASS: string;
 	export const PROCESSOR_IDENTIFIER: string;
@@ -71,8 +70,10 @@ declare module '$env/static/private' {
 	export const DEBIAN_FRONTEND: string;
 	export const HOMEPATH: string;
 	export const DriverData: string;
-	export const LOCALAPPDATA: string;
-	export const EFC_13036_4126798990: string;
+	export const EFC_36240_1592913036: string;
+	export const npm_config_noproxy: string;
+	export const USERPROFILE: string;
+	export const EFC_36240_4126798990: string;
 	export const OneDrive: string;
 	export const GIT_EDITOR: string;
 	export const LANG: string;
@@ -86,6 +87,7 @@ declare module '$env/static/private' {
 	export const IGCCSVC_DB: string;
 	export const HOMEDRIVE: string;
 	export const LEVEL_ZERO_V1_SDK_PATH: string;
+	export const LOCALAPPDATA: string;
 	export const NODE: string;
 	export const VSCODE_GIT_IPC_HANDLE: string;
 	export const npm_command: string;
@@ -93,7 +95,6 @@ declare module '$env/static/private' {
 	export const npm_config_allow_scripts: string;
 	export const npm_config_cache: string;
 	export const npm_config_globalconfig: string;
-	export const npm_config_noproxy: string;
 	export const npm_config_prefix: string;
 	export const OS: string;
 	export const npm_config_user_agent: string;
@@ -126,7 +127,6 @@ declare module '$env/static/private' {
 	export const TMP: string;
 	export const USERDOMAIN: string;
 	export const USERDOMAIN_ROAMINGPROFILE: string;
-	export const USERPROFILE: string;
 	export const VBOX_MSI_INSTALL_PATH: string;
 	export const VSCODE_A11Y_MODE: string;
 	export const VSCODE_GIT_ASKPASS_MAIN: string;
@@ -242,7 +242,6 @@ declare module '$env/dynamic/private' {
 		npm_config_local_prefix: string;
 		CommonProgramW6432: string;
 		COLORTERM: string;
-		EFC_13036_1592913036: string;
 		CommonProgramFiles: string;
 		GIT_ASKPASS: string;
 		PROCESSOR_IDENTIFIER: string;
@@ -257,8 +256,10 @@ declare module '$env/dynamic/private' {
 		DEBIAN_FRONTEND: string;
 		HOMEPATH: string;
 		DriverData: string;
-		LOCALAPPDATA: string;
-		EFC_13036_4126798990: string;
+		EFC_36240_1592913036: string;
+		npm_config_noproxy: string;
+		USERPROFILE: string;
+		EFC_36240_4126798990: string;
 		OneDrive: string;
 		GIT_EDITOR: string;
 		LANG: string;
@@ -272,6 +273,7 @@ declare module '$env/dynamic/private' {
 		IGCCSVC_DB: string;
 		HOMEDRIVE: string;
 		LEVEL_ZERO_V1_SDK_PATH: string;
+		LOCALAPPDATA: string;
 		NODE: string;
 		VSCODE_GIT_IPC_HANDLE: string;
 		npm_command: string;
@@ -279,7 +281,6 @@ declare module '$env/dynamic/private' {
 		npm_config_allow_scripts: string;
 		npm_config_cache: string;
 		npm_config_globalconfig: string;
-		npm_config_noproxy: string;
 		npm_config_prefix: string;
 		OS: string;
 		npm_config_user_agent: string;
@@ -312,7 +313,6 @@ declare module '$env/dynamic/private' {
 		TMP: string;
 		USERDOMAIN: string;
 		USERDOMAIN_ROAMINGPROFILE: string;
-		USERPROFILE: string;
 		VBOX_MSI_INSTALL_PATH: string;
 		VSCODE_A11Y_MODE: string;
 		VSCODE_GIT_ASKPASS_MAIN: string;

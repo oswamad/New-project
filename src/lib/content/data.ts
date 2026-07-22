@@ -93,7 +93,7 @@ export const music = {
 		{ name: 'Girl in Red', slug: 'girl-in-red',  wiki: 'Girl_in_red',  color1: '#c0647a', color2: '#7a2040' },
 		{ name: 'Sir Chloe',   slug: 'sir-chloe',    wiki: 'Sir_Chloe',    color1: '#6478c0', color2: '#2a3a7a' },
 		{ name: 'Kikuo',       slug: 'kikuo',         wiki: 'Kikuo_(musician)',        color1: '#9064c0', color2: '#3a1a7a' },
-		{ name: 'Clairo',      slug: 'clairo',        wiki: 'Clairo',       color1: '#c09664', color2: '#7a4a20' },
+		{ name: 'Astrid',      slug: 'astrid',        wiki: null,           color1: '#c09664', color2: '#7a4a20' },
 		{ name: 'The Marías',  slug: 'the-marias',    wiki: 'The_Marías',   color1: '#c064a0', color2: '#7a1a5a' },
 		{ name: 'Bratty',      slug: 'bratty',        wiki: 'Bratty_(musician)', color1: '#c06464', color2: '#7a2020' },
 		{ name: 'Cavetown',    slug: 'cavetown',      wiki: 'Cavetown',     color1: '#64a0c0', color2: '#1a4a7a' },

@@ -38,6 +38,6 @@ declare module "$app/types" {
 		};
 		Pathname(): "/";
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
-		Asset(): "/.nojekyll" | "/favicon.svg" | "/music/bratty.svg" | "/music/cavetown.svg" | "/music/clairo.svg" | "/music/girl-in-red.svg" | "/music/kikuo.svg" | "/music/sir-chloe.svg" | "/music/the-marias.svg" | "/music/vocaloid.svg" | "/portrait.jpg" | "/shark.jpg" | string & {};
+		Asset(): "/.nojekyll" | "/favicon.svg" | "/music/astrid.jpg" | "/music/bratty.svg" | "/music/cavetown.svg" | "/music/clairo.svg" | "/music/girl-in-red.svg" | "/music/kikuo.svg" | "/music/sir-chloe.svg" | "/music/the-marias.svg" | "/music/vocaloid.svg" | "/portrait.jpg" | "/shark.jpg" | string & {};
 	}
 }
